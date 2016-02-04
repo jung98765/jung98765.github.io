@@ -542,7 +542,7 @@ width:80%;
 }
 .view .mask,.view .content {
      width: 100%;
-   height: 200px;
+   height: 100px;
    position: absolute;
    overflow: hidden;
    top: 0;
